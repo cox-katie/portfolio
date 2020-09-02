@@ -2,14 +2,14 @@
 title: About 
 subtitle: 
 description:
-featured_image: /images/about.png
+featured_image: /images/about.jpg
 ---
 
 ## Hi! I'm Katie.
 
 I'm a learning designer who loves learning about learning (surprise!), providing engaging courses for life-long learners, and developing relationships that allow the learning design process to come to life. 
 
-(/images/katie-profesh.png)
+![This is me](/images/katie-profesh.png)
 
 We've packed Personal full of powerful features to help showcase your work:
 
