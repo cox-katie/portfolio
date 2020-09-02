@@ -1,11 +1,13 @@
 ---
-title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+title: About 
+subtitle: 
+description:
 featured_image: /images/katie-profesh.png
 ---
 
-## Features
+## Hi! I'm Katie.
+
+I'm a learning designer who loves learning about learning (surprise!), providing engaging courses for life-long learners, and developing relationships that allow the learning design process to come to life. 
 
 We've packed Personal full of powerful features to help showcase your work:
 
