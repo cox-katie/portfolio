@@ -2,7 +2,7 @@
 title: About 
 subtitle: 
 description:
-featured_image: /images/recess.gif
+featured_image: /images/matilda-slow.gif
 ---
 
 ## Hi! I'm Katie.
