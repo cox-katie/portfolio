@@ -2,7 +2,7 @@
 title: About 
 subtitle: 
 description:
-featured_image: /images/about.jpg
+featured_image: /images/recess.gif
 ---
 
 ## Hi! I'm Katie.
