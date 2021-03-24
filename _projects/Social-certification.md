@@ -10,7 +10,7 @@ featured_image: '/images/Certification.png'
 
 ## Get certified! 
 
-![Later Certification](/images/design-folks.png)
+![Later Certification](/images/design-folks.png){: .align-left}
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 
