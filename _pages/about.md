@@ -14,6 +14,6 @@ I like to have fun but I'm serious when it comes to developing relevant and cont
 
 ![This is me](/images/katie-profesh.png)
 
-Want the nitty gritty details? Check out my [resume](https://katieslearnings.com/images/Katie_Cox_Resume.pdf) and connect with me on <a href="https://www.linkedin.com/in/katiecox85/">LinkedIn</a>!
+Want the nitty gritty details? Check out my [resume](https://katieslearnings.com/images/Katie_Cox_Resume.pdf) or connect with me on <a href="https://www.linkedin.com/in/katiecox85/">LinkedIn</a>!
 
 <a href="https://katieslearnings.com/contact" class="button button--large">Get in touch</a>
