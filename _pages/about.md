@@ -2,7 +2,7 @@
 title: About 
 subtitle: 
 description:
-featured_image: /images/lightbulb.jpeg
+featured_image: /images/lightbulb.jpg
 ---
 
 ## Hi! I'm Katie.
