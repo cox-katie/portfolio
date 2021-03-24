@@ -11,6 +11,6 @@ I'm a learning designer who loves learning about learning (surprise!), providing
 
 ![This is me](/images/katie-profesh.png)
 
-Want the nitty gritty details? Check out my <a href="/images/Katie_Cox_Resume.pdf">resume</a>!
+Want the nitty gritty details? Check out my [resume]({{https://katieslearnings.com}}/images/Katie_Cox_Resume.pdf)resume!
 
 <a href="https://katieslearnings.com/contact" class="button button--large">Get in touch</a>
