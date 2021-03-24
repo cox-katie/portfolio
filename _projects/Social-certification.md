@@ -8,14 +8,14 @@ featured_image: '/images/Certification.png'
 
 
 
-## Demo content
+## Get certified! 
 
-![Later Certification](/images/Certification.png)
+![Later Certification](/images/design-folks.png)
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 
 Take a look at my certification outline [here](https://katieslearnings.com/assets/Later_Certified_Pro.pdf).
 
-> “Get better product adoption and build a stronger brand with certifications
+> “Get better product adoption and build a stronger brand with certifications!
 
 
