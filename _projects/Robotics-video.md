@@ -6,9 +6,7 @@ description: This video introduces users to the enablement program they can foll
 featured_image: '/images/Robotics/Robotics.png'
 ---
 
-## Course overview video
-
-![Robots](/images/Robotics/Robots - video capture.png){: .align-left}
+## Get started with ACL Robotics!
 
 This video introduces users to the enablement program they can follow to get skilled in ACL Robotics software. I created the entire end-to-end program, but this video is a nice intro to the work within the program.
 
