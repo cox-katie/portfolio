@@ -18,9 +18,8 @@ The course on designing and building workflows introduces users to automating ma
 
 ## Visualizing your results
 
-This follow-up course takes things one step further and allows users to visualize results based on the workflows they created in the previous course. 
+This follow-up course takes things one step further and allows users to visualize results based on the workflows they created in the previous course. This video that's included in the course, shows users how to build a storyboard so they can communicate their findings.
 
 ### Building a storyboard
-The follow-up course on visualizing results based on your workflows included the following video on how to build a storyboard.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFiVON1A_Qw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
