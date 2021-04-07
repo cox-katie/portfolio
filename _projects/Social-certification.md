@@ -3,14 +3,14 @@ title: 'Social media certification'
 subtitle: 'Become a brand master'
 date: 2018-06-30 00:00:00
 description: This certification plan is a high level outline for a social media software company's first certification program.
-featured_image: '/images/Certification.png'
+featured_image: '/images/Later/certification-feature.png'
 ---
 
 
 
 ## Get certified! 
 
-![Later Certification](/images/design-folks.png){: .align-left}
+![Later Certification](/images/Later/design-folks.png){: .align-left}
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 

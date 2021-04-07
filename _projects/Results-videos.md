@@ -1,12 +1,14 @@
 ---
 title: 'Automate workflows with Results'
-subtitle: 'Videos'
+subtitle: 'Videos created for 2 digital courses'
 date: 2018-06-30 00:00:00
 description: Check out some videos that I created for a hands-on course on designing and building workflows and visualizing results. 
-featured_image: '/images/Results/Storyboarding.png'
+featured_image: '/images/Results/How-to-feature.png'
 ---
 
 ## Automate your workflows with Results!
+
+![Later Certification](/images/Results/Storyboarding.png){: .align-left}
 
 The course on designing and building workflows introduces users to automating manual compliance processes in HighBond's Results module.
 
