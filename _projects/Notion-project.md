@@ -1,21 +1,18 @@
 ---
-title: 'Social media certification'
-subtitle: 'Create customer champions through certification'
+title: 'Notion for Support teams'
+subtitle: 'Create exceptional learning experiences for new users'
 date: 2018-06-30 00:00:00
-description: This certification plan is a high-level outline for a social media software company's first certification program.
+description: This is a framework for how I would construct a self-paced online course to teach Support teams how to use Notion.
 featured_image: '/images/Later/later-social.jpg'
 ---
 
 
 
-## Get certified! 
-
-![Later Certification](/images/Later/design-folks.png){: .align-left}
+## Notion for Support teams! 
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 
-Take a look at my [certification outline](https://katieslearnings.com/assets/Later-certified-PRO.pdf).
+Take a look at the [course framework](assets/Notion-for-Support-Teams.pdf).
 
-> “Get better product adoption and build a stronger brand with [certifications](https://katieslearnings.com/assets/Later-certified-PRO.pdf)!
 
 
