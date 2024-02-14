@@ -1,6 +1,6 @@
 ---
 title: 'Automate workflows with Results'
-subtitle: 'Videos created for 2 digital courses'
+subtitle: 'Videos created for two digital courses'
 date: 2018-06-30 00:00:00
 description: Check out some videos that I created for a hands-on course on designing and building workflows and visualizing results. 
 featured_image: '/images/Results/How-to-feature.png'
@@ -8,7 +8,7 @@ featured_image: '/images/Results/How-to-feature.png'
 
 ## Automate your workflows with Results!
 
-![Later Certification](/images/Results/Storyboarding.png){: .align-left}
+![Storyboard image](/images/Results/Storyboarding.png){: .align-left}
 
 The course on designing and building workflows introduces users to automating manual compliance processes in HighBond's Results module.
 
@@ -20,7 +20,7 @@ The course on designing and building workflows introduces users to automating ma
 
 ## Visualizing your results
 
-This follow-up course takes things one step further and allows users to visualize results based on the workflows they created in the previous course. This video that's included in the course, shows users how to build a storyboard so they can communicate their findings.
+This follow-up course takes things one step further and allows users to visualize results based on the workflows they created in the previous course. This video that's included in the course shows users how to build a storyboard so they can communicate their findings.
 
 ### Building a storyboard
 
