@@ -3,7 +3,7 @@ title: 'Notion for Support teams'
 subtitle: 'Create exceptional learning experiences for new users'
 date: 2018-06-30 00:00:00
 description: This is a framework for how I would construct a self-paced online course to teach Support teams how to use Notion.
-featured_image: '/images/Later/later-social.jpg'
+featured_image: '/images/Notion/Notion-database.png'
 ---
 
 
