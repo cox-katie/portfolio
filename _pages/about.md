@@ -18,7 +18,7 @@ I've been in the field of corporate learning for over 10 years. In that time, Iâ
 I like to have fun, but I'm serious when it comes to developing relevant and contextual learning content that upskills software users and improves their day-to-day. I believe fully in the power of learning by doing, creating safe spaces for people to do their best work, and designing beautiful and engaging learning experiences. **Great educational experiences makes a difference in people's lives**, and I'm all about making those experiences the best they can be.
 
 
-![This is me](/images/katie-prprofile-photo.jpg)
+![This is me](/images/OG-profile.jpg)
 
 Want the nitty gritty details? Check out my [resume](https://katieslearnings.com/assets/Katie-Cox-resume.pdf) or connect with me on <a href="https://www.linkedin.com/in/katiecox85/">LinkedIn</a>!
 
