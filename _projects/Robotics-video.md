@@ -6,13 +6,6 @@ description: This video introduces users to the enablement program they can foll
 featured_image: '/images/Robotics/Course-overview-feature.png'
 ---
 
----
-title: 'Automate workflows with Results'
-subtitle: 'Videos created for two digital courses'
-date: 2018-06-30 00:00:00
-description: Check out some videos that I created for a hands-on course on designing and building workflows and visualizing results. 
-featured_image: '/images/Results/How-to-feature.png'
----
 
 ## Get started with ACL Robotics!
 
