@@ -16,8 +16,9 @@ Certifications help software customers better adopt the product and build a stro
 
 [resume](https://katieslearnings.com/assets/Katie-Cox-resume.pdf)
 
-Take a look at my [certification outline](https://katieslearnings.com/assets/Katie-Cox-resume.pdf) [here](https://katieslearnings.com/assets/Later-Certified-PRO.pdf).
+Take a look at my [certification outline](https://katieslearnings.com/assets/Later-certified-PRO.pdf) [here](https://katieslearnings.com/assets/Later-Certified-PRO.pdf).
 
 > “Get better product adoption and build a stronger brand with [certifications](https://katieslearnings.com/assets/Later-Certified-PRO.pdf)!
 
 
+assets/Later-certified-PRO.pdf
