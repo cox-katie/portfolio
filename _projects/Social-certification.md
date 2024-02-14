@@ -14,11 +14,9 @@ featured_image: '/images/Later/later-social.jpg'
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 
-[resume](https://katieslearnings.com/assets/Katie-Cox-resume.pdf)
+Take a look at my [certification outline](https://katieslearnings.com/assets/Later-certified-PRO.pdf).
 
-Take a look at my [certification outline](https://katieslearnings.com/assets/Later-certified-PRO.pdf) [here](https://katieslearnings.com/assets/Later-Certified-PRO.pdf).
-
-> “Get better product adoption and build a stronger brand with [certifications](https://katieslearnings.com/assets/Later-Certified-PRO.pdf)!
+> “Get better product adoption and build a stronger brand with [certifications](https://katieslearnings.com/assets/Later-certified-PRO.pdf)!
 
 
 assets/Later-certified-PRO.pdf
