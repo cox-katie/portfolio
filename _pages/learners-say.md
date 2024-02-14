@@ -2,7 +2,7 @@
 title: Learners say... 
 subtitle: 
 description:
-featured_image: /images/lightbulb.jpg
+featured_image: /images/testimonial.jpg
 ---
 
 
