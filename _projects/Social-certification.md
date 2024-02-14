@@ -19,4 +19,3 @@ Take a look at my [certification outline](https://katieslearnings.com/assets/Lat
 > “Get better product adoption and build a stronger brand with [certifications](https://katieslearnings.com/assets/Later-certified-PRO.pdf)!
 
 
-assets/Later-certified-PRO.pdf
