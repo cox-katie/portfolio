@@ -12,6 +12,8 @@ menu_settings:
       url: '/'
     - title: 'About'
       url: '/about'
+    - title: 'Learners say'
+      url: '/learners-say'
     - title: 'Contact'
       url: '/contact'
 
