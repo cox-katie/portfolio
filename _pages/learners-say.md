@@ -1,5 +1,5 @@
 ---
-title: Learners say 
+title: Learners say... 
 subtitle: 
 description:
 featured_image: /images/lightbulb.jpg
