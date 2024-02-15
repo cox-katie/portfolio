@@ -4,6 +4,7 @@ subtitle: 'Get attention with a course overview video'
 date: 2018-06-30 00:00:00
 description: This video introduces users to the enablement program they can follow to get skilled in ACL Robotics software. I created the entire end-to-end program, but this video is a nice intro to the work within the program.
 featured_image: '/images/Robotics/robot.jpg'
+order: 4
 ---
 
 
