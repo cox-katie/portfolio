@@ -2,7 +2,7 @@
 title: 'Notion for Support teams'
 subtitle: 'Create exceptional learning experiences for new users'
 date: 2018-06-30 00:00:00
-description: This is a framework for how I would construct a self-paced online course to teach Support teams how to use Notion.
+description: A framework for how I would construct a self-paced online course to teach a Support team how to use Notion.
 featured_image: '/images/brick.jpeg'
 ---
 
@@ -19,9 +19,9 @@ I put together this project plan as part of an interview assignment. For the ass
 
 > Take a look over the [entire plan](https://katieslearnings.com/assets/Notion-for-Support-Teams.pdf).
 
-And check out the video, below:
+And check out the video I created for the assignment, below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Egl1VEOhELw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=Egl1VEOhELw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The why
 It's so important that new users have exceptional learning experiences when onboarding to a new software platform. Self-paced online learning courses play a significant role in this experience, and this course project plan ensures customers:
