@@ -12,7 +12,7 @@ featured_image: '/images/Notion/laptop-boring.jpg'
 
 Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
 
-Take a look at the [course framework](assets/Notion-for-Support-Teams.pdf).
+Take a look at the [course framework](/assets/Notion-for-Support-Teams.pdf).
 
 
 
