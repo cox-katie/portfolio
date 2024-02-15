@@ -10,9 +10,31 @@ featured_image: '/images/brick.jpeg'
 
 ## Notion for Support teams! 
 
-Certifications help software customers better adopt the product and build a stronger brand for the company. This certification plan is a high level outline for a social media software company's first certification program.
+### The what
+I put together this project plan as part of an interview assignment. For the assignment I created a project plan and work samples that consisted of a:
 
-Take a look at the [course framework](https://katieslearnings.com/assets/Notion-for-Support-Teams.pdf).
+ - course outline
+ - tutorial video that would be included in the course
+ - short knowledge check
+
+> Take a look over the [entire plan](https://katieslearnings.com/assets/Notion-for-Support-Teams.pdf).
+
+And check out the video, below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Egl1VEOhELw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The why
+It's so important that new users have exceptional learning experiences when onboarding to a new software platform. Self-paced online learning courses play a significant role in this experience, and this course project plan ensures customers:
+
+ - Have all the necessary information
+ - Can intuitively navigate the learning experience
+ - Get active learning experiences
+
+### The how
+
+![Course project plan](../images/Notion/Course-plan-process.png)
+
+
 
 
 
