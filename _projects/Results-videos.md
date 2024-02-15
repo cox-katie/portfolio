@@ -4,7 +4,7 @@ subtitle: 'Design and build workflows and visualize results'
 date: 2018-06-30 00:00:00
 description: Check out some videos that I created for a hands-on course on designing and building workflows and visualizing results. 
 featured_image: '/images/Results/visualize-results.jpg'
-order: 3
+order_number: 3
 ---
 
 ## Automate your workflows with Results!
