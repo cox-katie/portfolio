@@ -15,10 +15,11 @@ order_number: 2
 <br>
 
 <div class="gallery" data-columns="3">
+    <img src="/images/Ada-Academy/portrait-attempt.png"> 
     <img src="/images/Ada-Academy/courses.png">
     <img src="/images/Ada-Academy/learning-path.png">
-    <img src="/images/Ada-Academy/credential.png">
-    <img src="/images/demo/demo-landscape-2.jpg">
+    <img src="/images/Ada-Academy/ScreenShot Tool -20240216084115.png">  
+    <img src="/images/Ada-Academy/credential.png"> 
 </div>
 
 
