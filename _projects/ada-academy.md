@@ -12,12 +12,12 @@ order_number: 2
 
 ## ~ Director, Support Technology, Peloton
 
-<br><br>
+<br>
 
 <div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
+    <img src="/images/Ada-Academy/courses.png">
+    <img src="/images/Ada-Academy/learning-path.png">
+    <img src="/images/Ada-Academy/credential.png">
     <img src="/images/demo/demo-landscape-2.jpg">
 </div>
 
@@ -25,5 +25,5 @@ order_number: 2
 
 
 
-Check out the [Ada Academy site](https://www.ada-education.com/pages/about-acx-academy)!
+Check out the [Ada Academy site](https://www.ada-education.com/pages/about-acx-academy) for yourself!
 
