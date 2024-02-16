@@ -26,9 +26,9 @@ featured_image: /images/portfolio.png
 
 	<div class="wrap">
 		
-		{% assign ordered_pages = site.projects | sort:"order_number" %}
+		{% assign sorted_projects = site.projects | sort: 'order_number' %}
 
-		{% for project in site.projects %}
+		{% for project in sorted_projects %}
 
 		<article class="post">
 
