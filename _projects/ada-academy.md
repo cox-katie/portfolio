@@ -15,7 +15,6 @@ order_number: 2
 <br>
 
 <div class="gallery" data-columns="3">
-    <img src="/images/Ada-Academy/grow-your-biz.png"> 
     <img src="/images/Ada-Academy/courses.png">
     <img src="/images/Ada-Academy/learning-path.png">
     <img src="/images/Ada-Academy/credentials.png"> 
