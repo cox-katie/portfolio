@@ -19,7 +19,7 @@ order_number: 2
     <img src="/images/Ada-Academy/courses.png">
     <img src="/images/Ada-Academy/learning-path.png">
     <img src="/images/Ada-Academy/credentials.png"> 
-    <img src="/images/Ada-Academy/training-schedule.png"> 
+   
 </div>
 
 
