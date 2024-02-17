@@ -15,11 +15,11 @@ order_number: 2
 <br>
 
 <div class="gallery" data-columns="3">
-    <img src="/images/Ada-Academy/Untitled design (1).png"> 
+    <img src="/images/Ada-Academy/grow-your-biz.png"> 
     <img src="/images/Ada-Academy/courses.png">
     <img src="/images/Ada-Academy/learning-path.png">
-    <img src="/images/Ada-Academy/ScreenShot Tool -20240216084115.png">  
-    <img src="/images/Ada-Academy/credential.png"> 
+    <img src="/images/Ada-Academy/credentials.png"> 
+    <img src="/images/Ada-Academy/training-schedule.png"> 
 </div>
 
 
