@@ -12,7 +12,7 @@ order_number: 1
 ## Notion for Support teams! 
 
 ### The what
-I put together this project as part of an interview assignment. For the assignment I created a project plan and work samples that consisted of a:
+I put together this project as part of an interview assignment. For the assignment I created a **project plan** and **work samples** that consisted of a:
 
  - Course outline
  - Tutorial video that would be included in the course
