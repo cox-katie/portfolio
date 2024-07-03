@@ -6,7 +6,7 @@ featured_image: /images/lightbulb.jpg
 ---
 
 ## Hi! I'm Katie.
-<img src="/images/square-profile.png" style="float: left; padding-right:10px" alt="This is me!" width="20%"/>
+<img src="/images/square-profile.png" style="float: left; padding-right:20px" alt="This is me!" width="20%"/>
 
 ### What I'm about
 
