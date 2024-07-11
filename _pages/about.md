@@ -20,6 +20,6 @@ While I like to have fun, I'm serious when it comes to developing relevant and c
 
 
 
-Want the nitty gritty details? Check out my [resume](https://katieslearnings.com/assets/Katie-Cox-resume.pdf) or connect with me on <a href="https://www.linkedin.com/in/katiecox85/">LinkedIn</a>!
+Want the nitty gritty details? Check out my [resume](https://katieslearnings.com/assets/KatieCox-Resume.pdf) or connect with me on <a href="https://www.linkedin.com/in/katiecox85/">LinkedIn</a>!
 
 <a href="https://katieslearnings.com/contact" class="button button--large">Get in touch</a>
