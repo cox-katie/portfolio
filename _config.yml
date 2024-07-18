@@ -3,6 +3,8 @@ site: Katie's learnings
 url: https://katieslearnings.com
 baseurl: 
 
+google_analytics: G-2YX24QM8RN
+
 collections:
   pages:
     output: true
@@ -64,4 +66,4 @@ seo:
  author: "Katie Cox"
 
 
-google_analytics: "G-2YX24QM8RN"
+
