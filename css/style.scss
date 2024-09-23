@@ -123,16 +123,13 @@ $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
 /* Ensure nested unordered lists are indented */
-ul ul {
-    margin-left: 20px;
-    list-style-position: outside; /* Adjust the indentation as needed */
+ul, ol {
+    margin-left: 20px !important;
+    list-style-position: outside !important; /* Adjust the indentation as needed */
   }
-  
-  /* Similarly, if you want to style ordered lists as well */
-  ol ol {
-    margin-left: 20px;
-    list-style-position: outside; /* Adjust the indentation as needed */
-  }
+li {
+    padding-left: 20px !important;
+} 
 // - - - - - - - - - - Global styles
 
 @import "_basic";
