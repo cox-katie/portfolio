@@ -60,6 +60,8 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
  - Description: Repurposed existing video content to create a public-facing video tutorial page, enabling Customer Success Managers to easily share targeted video content with customers. This gave customers quick access to actionable insights that addressed their immediate needs.
  - Outcome: Enhanced learner engagement and satisfaction, while fostering strong buy-in from the Customer Experience team by streamlining their ability to share skill-building videos, ultimately positioning the Academy as a valuable resource. 
 
+<img src="/images/Ada-Academy/growing-business.png" />
+
 ## Impacts and results
  - Reduced support ticket volume
  - Increased course engagement
