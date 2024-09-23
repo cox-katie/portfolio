@@ -153,7 +153,12 @@ p, ul, ol {
 }
 
 ul, ol {
-	list-style-position: inside;
+	list-style-position: outside;
+	margin-left: 20px; 
+}
+
+li {
+	padding-left: 20px; 
 }
 
 blockquote {
