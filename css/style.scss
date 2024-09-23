@@ -122,8 +122,17 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.hero_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 
-
-
+/* Ensure nested unordered lists are indented */
+ul ul {
+    margin-left: 20px;
+    list-style-position: outside; /* Adjust the indentation as needed */
+  }
+  
+  /* Similarly, if you want to style ordered lists as well */
+  ol ol {
+    margin-left: 20px;
+    list-style-position: outside; /* Adjust the indentation as needed */
+  }
 // - - - - - - - - - - Global styles
 
 @import "_basic";
