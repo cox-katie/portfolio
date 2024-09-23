@@ -2,7 +2,7 @@
 title: 'Training, on your schedule, with Ada Academy'
 subtitle: 'Learn. Stand out. Improve the way you work.'
 date: 2018-06-30 00:00:00
-description: The Academy site my team and I built out during my time at Ada.
+description: A case study on revamping Ada Support's customer education program; Boosting engagement, driving adoption, and increasing retention through outcome-driven learning paths.
 featured_image: '/images/Ada-Academy/Academy.jpg'
 order_number: 2
 ---
@@ -21,6 +21,52 @@ order_number: 2
    
 </div>
 
+## Project Overview
+Project Title: Enhancing Self-Serve Customer Education for Ada Support
+Time Period: May 2021 – February 2024
 
-Check out the [Ada Academy site](https://www.ada-education.com/pages/about-acx-academy) for yourself!
+## Challenges identified
+**Initial program limitations:**
+ - Lack of structured, outcome-based learning paths for customers; training programs that focused on surface-level, point-and-click tutorials, without addressing the deeper strategies or *why* behind using the software
+ - Lack of cohesive branding within the learning management system, leading to an inconsistent user experience 
+ - Significant manual work required behind the scenes to ensure proper functioning of the Academy, slowing down scalability
+ - The need for enhanced accessibility and inclusivity across learning materials
+ - Limited bite-size training content, making it harder for users to access quick, digestible learning
 
+**Stakeholder feedback:**
+ Customers, partners, and internal teams indicated a strong demand for clearer, more navigable educational resources and a more scalable training program.
+
+## Key actions taken
+
+1. Creation of structured, outcome-based learning paths
+ - Description: Redesigned Ada’s Academy to shift from simple "point-and-click" tutorials to strategic, outcome-driven learning paths that help customers understand the deeper value and use of the software. This involved
+ - Outcome: Customers who completed outcome-driven courses had a better understanding of the software's strategic impact and were 25% more likely to renew subscriptions. Course completion rates surpassed 80% and support ticket volume decreased.
+
+2. Rebranding the Ada Academy site
+ - Description: Worked with design and product teams to implement cohesive branding across the LMS, ensuring consistency in look and feel, which aligned with Ada’s overall brand experience.
+ - Outcome: Improved brand perception and customer satisfaction with the learning experience, making it more engaging and visually aligned with Ada’s core brand values.
+
+3. Automation of Academy site administration
+ - Description: Automated various behind-the-scenes administrative tasks, streamlining the management of the Academy. This included automating the certification process and routine LMS tasks that previously required manual intervention.
+ - Outcome: Saved a full day’s worth of work each week, freeing up the team to focus on content creation and program improvements.
+
+4. Integration of accessibility and inclusivity standards
+ - Description: Enhanced all educational materials to meet WCAG 2.1 accessibility standards, ensuring that content was available in multiple formats (e.g., text, video with captions, screen-reader-friendly documents).
+ - Outcome: Expanded accessibility for a wider audience and enhanced inclusivity across all educational content, improving the overall user experience.
+
+5. Creation of bite-size learning content 
+ - Description: Repurposed existing video content to create a public-facing video tutorial page, enabling Customer Success Managers to easily share targeted video content with customers. This gave customers quick access to actionable insights that addressed their immediate needs.
+ - Outcome: Enhanced learner engagement and satisfaction, while fostering strong buy-in from the Customer Experience team by streamlining their ability to share skill-building videos, ultimately positioning the Academy as a valuable resource. 
+
+## Impacts and results
+ - Reduced support ticket volume
+ - Increased course engagement
+ - Increased retention for trained accounts
+ - Cost savings and efficiency 
+ - Brand consistency
+
+## Skills demonstrated
+ - Instructional design: Created strategic, outcome-based learning paths that transformed customer understanding of the software.
+ - Branding and user experience: Aligned educational content with Ada’s brand to improve user engagement and satisfaction.
+ - Project management & automation: Led initiatives that streamlined manual processes, enabling the education team to focus on higher-value tasks.
+ - Collaboration and leadership: Worked cross-functionally with design, product, and support teams, while coaching a growing education team.
