@@ -26,6 +26,7 @@ And check out the video I created for the assignment, below:
 
 ### The how
 For this fictional course development project, the detailed plan below includes essential phases designed to ensure a thorough and efficient development process. Initial stages focused on comprehensive needs assessment and aligning objectives with user requirements. The project plan outlined structured content creation, including scripting and developing engaging multimedia assets such as tutorial videos and interactive modules. To maintain quality, an iterative review cycle was incorporated, followed by pilot testing with feedback loops and determining the KPIs to evaluate the success of the course. 
+
 ![Course project plan](../images/Notion/Course-plan-process.png)
 
 ### The why
