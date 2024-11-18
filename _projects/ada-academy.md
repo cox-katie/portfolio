@@ -61,8 +61,6 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
  - Description: Repurposed existing video content to create a public-facing video tutorial page, enabling Customer Success Managers to easily share targeted video content with customers. This gave customers quick access to actionable insights that addressed their immediate needs.
  - Outcome: Enhanced learner engagement and satisfaction, while fostering strong buy-in from the Customer Experience team by streamlining their ability to share skill-building videos, ultimately positioning the Academy as a valuable resource. 
 
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g15OQCzrNVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Impacts and results
@@ -77,3 +75,12 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
  - Branding and user experience: Aligned educational content with Ada’s brand to improve user engagement and satisfaction.
  - Project management & automation: Led initiatives that streamlined manual processes, enabling the education team to focus on higher-value tasks.
  - Collaboration and leadership: Worked cross-functionally with design, product, and support teams, while coaching a growing education team.
+
+## Additional videos    
+Check out some of the other videos developed as part of the Ada customer education program revamp.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhVbVUSukPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exaMBO4bBo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o431hTke1Qs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
