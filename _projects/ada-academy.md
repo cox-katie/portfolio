@@ -47,6 +47,7 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
 ### Rebranding the Ada Academy site
  - Description: Worked with design and product teams to implement cohesive branding across the LMS, ensuring consistency in look and feel, which aligned with Ada’s overall brand experience.
  - Outcome: Improved brand perception and customer satisfaction with the learning experience, making it more engaging and visually aligned with Ada’s core brand values.
+<img src="/images/Ada-Academy/growing-business.png" />
 
 ### Automation of Academy site administration
  - Description: Automated various behind-the-scenes administrative tasks, streamlining the management of the Academy. This included automating the certification process and routine LMS tasks that previously required manual intervention.
@@ -60,7 +61,7 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
  - Description: Repurposed existing video content to create a public-facing video tutorial page, enabling Customer Success Managers to easily share targeted video content with customers. This gave customers quick access to actionable insights that addressed their immediate needs.
  - Outcome: Enhanced learner engagement and satisfaction, while fostering strong buy-in from the Customer Experience team by streamlining their ability to share skill-building videos, ultimately positioning the Academy as a valuable resource. 
 
-<img src="/images/Ada-Academy/growing-business.png" />
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=g15OQCzrNVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
