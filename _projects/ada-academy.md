@@ -62,6 +62,8 @@ During my time at Ada, I led a refresh of the entire program, creating clear, ou
 
 <img src="/images/Ada-Academy/growing-business.png" />
 
+<iframe width="560" height="315" src="https://youtu.be/g15OQCzrNVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Impacts and results
  - Reduced support ticket volume
  - Increased course engagement
