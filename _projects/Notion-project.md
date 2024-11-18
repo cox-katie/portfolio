@@ -27,7 +27,7 @@ And check out the video I created for the assignment, below:
 ### The how
 The detailed plan below shows how I'd plan and track the status of the course development process.
 
-[Course project plan](../images/Notion/Course-plan-process.png)
+![Course project plan](../images/Notion/Course-plan-process.png)
 
 ### The why
 It's so important that new users have exceptional learning experiences when onboarding to a new software platform. Self-paced online learning courses play a significant role in this experience, and this course project plan ensures users (in this case, support reps):
