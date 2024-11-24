@@ -62,7 +62,7 @@ paginate_path: "/blog/page:num/"
 
 seo:
  title: "Katie's learnings"
- description: "The journey of a learning designer."
+ description: "The journey of a learning designer"
  author: "Katie Cox"
 
 

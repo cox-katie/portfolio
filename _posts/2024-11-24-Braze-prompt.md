@@ -1,8 +1,10 @@
 ---
+layout: post
 title: 'Braze prompt'
-date: 2024-11-24 00:00:00
+date: 2024-11-24
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
+slug: Braze-prompt
 ---
 
 ![](/images/demo/demo-landscape.jpg)
