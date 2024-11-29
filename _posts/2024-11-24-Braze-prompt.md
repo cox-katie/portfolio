@@ -13,7 +13,7 @@ Ada is a generative AI chatbot platform that enables businesses to provide perso
 
 My team had data that showed that customers who integrate with other platforms are significantly more likely to renew their subscriptions, so we prioritized the development of a comprehensive personalization and integration learning path. Our legacy course was outdated and frequently criticized for being confusing and unhelpful. To address this, we aimed to create an accessible, guided, and impactful learning journey that would empower customers to confidently implement API integrations, thereby driving product adoption and retention.
 
-## Getting started with personalization
+## Get started with personalization
 
 To successfully integrate other platforms with Ada and understand how APIs work, users first need a solid grasp of concepts like variables.
 
