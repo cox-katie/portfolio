@@ -3,11 +3,9 @@ layout: post
 title: 'Work sample for Braze'
 date: 2024-11-24
 description: This page is an assignment for an interview with the company Braze
-featured_image: '/images/demo/braze.png'
+featured_image: '/images/Ada-Academy/Academy.jpg'
 permalink: /blog/Braze-prompt/
 ---
-
-![](/images/demo/demo-landscape.jpg)
 
 ## Background
 
