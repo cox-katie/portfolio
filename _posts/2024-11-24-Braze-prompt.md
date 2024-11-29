@@ -7,6 +7,7 @@ description: This page is an assignment for an interview with the company Braze
 featured_image: '/images/Ada-Academy/Academy.jpg'
 permalink: /blog/Braze-prompt/
 ---
+# Personalize customer experience with variables and API integrations
 
 ## Background
 
