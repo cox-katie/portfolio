@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Work sample for Braze'
+Subtitle: 'Personalize customer experience with variables and API integrations'
 date: 2024-11-24
 description: This page is an assignment for an interview with the company Braze
 featured_image: '/images/Ada-Academy/Academy.jpg'
