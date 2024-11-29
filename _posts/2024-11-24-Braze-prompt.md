@@ -1,107 +1,69 @@
 ---
 layout: post
-title: 'Braze prompt'
+title: 'Work sample for Braze'
 date: 2024-11-24
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: This page is an assignment for an interview with the company Braze
 featured_image: '/images/demo/braze.png'
 permalink: /blog/Braze-prompt/
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo content
+## Background
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Ada is a generative AI chatbot platform that enables businesses to provide personalized customer experiences at scale. The platform integrates with other tools to enhance its functionality. For example, an e-commerce site using Ada may want to integrate with their Shopify instance, allowing customers to engage with the bot to check their order status or track shipping updates. Setting up these integrations requires users to understand APIs and configure them within Ada.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+My team had data that showed that customers who integrate with other platforms are significantly more likely to renew their subscriptions, so we prioritized the development of a comprehensive personalization and integration learning path. Our legacy course was outdated and frequently criticized for being confusing and unhelpful. To address this, we aimed to create an accessible, guided, and impactful learning journey that would empower customers to confidently implement API integrations, thereby driving product adoption and retention.
 
-**Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+## Getting started with personalization
 
-You can create lists:
+To successfully integrate other platforms with Ada and understand how APIs work, users first need a solid grasp of concepts like variables.
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+The following videos are taken from the course that introduced users to variables, the building blocks for creating personalized customer experiences. While the videos were a key component of the course, they were complemented by text-based content, images, hands-on practice activities, and quizzes. 
 
-And:
+Unfortunately, I no longer have access to the actual courses themselves as Ada Academy is only available to their customers. I’m happy to discuss the course design and structure further to give you a more well-rounded idea of the learning experience we created.
 
-1. Numbered lists
-2. Like this other one
-3. Are great too
+### The value of personalization
 
-You can also add blockquotes, which are shown at a larger width to help break up the layout and draw attention to key parts of your content:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cq7KY2Da7X8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+###  Variables in action
 
-The theme also supports markdown tables:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0lHKnd8eKyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| Item                 | Author        | Supports tables? | Price |
-|----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+### Add variables to Answers
 
-And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p37c172V9ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[^1]: Beautiful modern, minimal theme design.
-[^2]: Powerful features to show off your work.
-[^3]: Maintained and supported by the theme developer.
+### Manage variables
 
-You can throw in some horizontal rules too:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5kj9-hQmzyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
 
-### Image galleries
+## Integrate with APIs
+As users progressed through the learning path, they were introduced to API concepts that catered to diverse technical skill levels. The content covered the very basics of APIs for less technical audiences, ensuring accessibility and confidence building, while providing flexibility for more advanced users to skip beginner content and dive straight into detailed implementation guidance. 
 
-Here's a really neat custom feature we added – galleries:
+This approach acknowledged that most Ada users came from less technically advanced backgrounds and ensured they could successfully engage with and configure integrations.
 
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
+### What are APIs?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g15OQCzrNVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
+### API components
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhVbVUSukPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
-</div>
-```
+### API return components
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exaMBO4bBo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*See what we did there? Code and syntax highlighting is built-in too!*
+### How to configure API integrations in Ada
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o431hTke1Qs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+## Learners say
 
----
+> “I want to say thank you...to your team. The Academy, the videos on APIs, were so helpful."
 
-### Image carousels
+## ~ Sr. Delivery and Targeting Product Specialist, Pinterest
 
-Here's another gallery with only one column, which creates a carousel slide-show instead.
+<br><br><br>
+> “Ada's courses have opened my eyes to the many possibilities of service automation. The well-structured modules made it so easy to understand that I was able to grasp the fundamentals in 5 days."
 
-A nice little feature: the carousel only advances when it is in view, so your visitors won't scroll down to find it half way through your images.
-
-<div class="gallery" data-columns="1">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
-</div>
-
-### What about videos?
-
-Videos are an awesome way to show off your work in a more engaging and personal way, and we’ve made sure they work great on our themes. Just paste an embed code from YouTube or Vimeo, and the theme makes sure it displays perfectly:
-
-<iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
----
-
-## Pretty cool, huh?
-
-We've packed this theme with powerful features to show off your work.
-
-Why not put them to use on your new portfolio?
-
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+## ~ Customer Solutions Manager, Loblaw
