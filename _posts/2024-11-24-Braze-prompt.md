@@ -4,7 +4,7 @@ title: 'Work sample for Braze'
 Subtitle: 'Personalize customer experience with variables and API integrations'
 date: 2024-11-26
 description: This page is an assignment for an interview with the company Braze
-featured_image: '/images/Ada-Academy/yellow-coffee-laptop.jpg'
+featured_image: '/images/Ada-Academy/coffee-laptop.jpg'
 permalink: /blog/Braze-prompt/
 ---
 # Personalize customer experience with variables and API integrations
