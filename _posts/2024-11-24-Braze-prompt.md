@@ -11,17 +11,17 @@ permalink: /blog/Braze-prompt/
 
 ## Background
 
-Ada is a generative AI chatbot platform that enables businesses to provide personalized customer experiences at scale. The platform integrates with other tools to enhance its functionality. For example, an e-commerce site using Ada may want to integrate with their Shopify instance, allowing customers to engage with the bot to check their order status or track shipping updates. Setting up these integrations requires users to understand APIs and configure them within Ada.
+Ada is a generative AI chatbot platform that helps businesses deliver personalized customer experiences at scale. It integrates with other tools and platforms to expand its capabilities and improve customer experience. For example, an e-commerce site using Ada might connect it to their Shopify instance, allowing customers to interact with the bot to check order statuses or track shipping updates. To set up these integrations, users need to understand variables and APIs and configure them within Ada.
 
-My team had data that showed that customers who integrate with other platforms are significantly more likely to renew their subscriptions, so we prioritized the development of a comprehensive personalization and integration learning path. Our legacy course was outdated and frequently criticized for being confusing and unhelpful. To address this, we aimed to create an accessible, guided, and impactful learning journey that would empower customers to confidently implement API integrations, thereby driving product adoption and retention.
+My team had product data that showed that customers who integrate with other platforms are significantly more likely to renew their subscriptions. Because of this, we prioritized the development of a comprehensive personalization and integration learning path. Our legacy course was outdated and frequently criticized for being confusing and unhelpful. To address this, we set out to create an accessible and guided learning journey that would equip customers with the skills and confidence to implement API integrations, ultimately driving product adoption and customer retention.
 
 ## Get started with personalization
 
 To successfully integrate other platforms with Ada and understand how APIs work, users first need a solid grasp of concepts like variables.
 
-The following videos are taken from the course that introduced users to variables, the building blocks for creating personalized customer experiences. While the videos were a key component of the course, they were complemented by text-based content, images, hands-on practice activities, and quizzes. 
+The following videos are taken from the course that introduces users to variables, the building blocks for creating personalized customer experiences. While the videos are a key component of the course, they are complemented by text-based content, images, diagrams, hands-on practice activities, and quizzes. 
 
-Unfortunately, I no longer have access to the actual courses themselves as Ada Academy is only available to their customers. I’m happy to discuss the course design and structure further to give you a more well-rounded idea of the learning experience we created.
+Unfortunately, I no longer have access to the actual courses themselves as Ada Academy is only available to their customers. I’m happy to discuss the course design and structure further to give you a more well-rounded idea of the learning experience we built.
 
 ### The value of personalization
 
@@ -41,7 +41,7 @@ Unfortunately, I no longer have access to the actual courses themselves as Ada A
 
 
 ## Integrate with APIs
-As users progressed through the learning path, they were introduced to API concepts that catered to diverse technical skill levels. The content covered the very basics of APIs for less technical audiences, ensuring accessibility and confidence building, while providing flexibility for more advanced users to skip beginner content and dive straight into detailed implementation guidance. 
+As users progress through the learning path, they get introduced to API concepts that cater to diverse technical skill levels. The content covered the very basics of APIs for less technical audiences, ensuring accessibility and confidence building, while providing flexibility for advanced users to skip beginner content and dive straight into detailed implementation guidance. 
 
 This approach acknowledged that most Ada users came from less technically advanced backgrounds and ensured they could successfully engage with and configure integrations.
 
