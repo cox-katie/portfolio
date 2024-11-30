@@ -61,9 +61,9 @@ This approach acknowledged that most Ada users came from less technically advanc
 
 > “I want to say thank you...to your team. The Academy, the videos on APIs, were so helpful."
 
-## ~ Sr. Delivery and Targeting Product Specialist, Pinterest
+### ~ Sr. Delivery and Targeting Product Specialist, Pinterest
 
 <br><br><br>
 > “Ada's courses have opened my eyes to the many possibilities of service automation. The well-structured modules made it so easy to understand that I was able to grasp the fundamentals in 5 days."
 
-## ~ Customer Solutions Manager, Loblaw
+### ~ Customer Solutions Manager, Loblaw
