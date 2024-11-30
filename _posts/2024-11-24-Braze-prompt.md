@@ -63,7 +63,7 @@ This approach acknowledged that most Ada users came from less technically advanc
 
 ### ~ Sr. Delivery and Targeting Product Specialist, Pinterest
 
-<br><br><br>
+<br><br>
 > “Ada's courses have opened my eyes to the many possibilities of service automation. The well-structured modules made it so easy to understand that I was able to grasp the fundamentals in 5 days."
 
 ### ~ Customer Solutions Manager, Loblaw
