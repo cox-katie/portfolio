@@ -4,7 +4,7 @@ subtitle: 'Create exceptional learning experiences for new users'
 date: 2018-06-30 00:00:00
 description: A framework for how I would construct a self-paced online course to teach a Support team how to use Notion.
 featured_image: '/images/Notion/Notion-yellow.jpg'
-order_number: 1
+order_number: 3
 ---
 
 
