@@ -2,7 +2,7 @@
 title: 'Personalize customer experience with variables and API integrations'
 Subtitle: 'A walkthrough of a course on using variables and APIs to personalize customer interactions'
 date: 2024-11-26
-description: Learn how to personalize customer interactions and streamline automation using variables and API integrations in Ada. This guide walks through key concepts, real-world applications, and a structured learning approach designed to build confidence and drive adoption.
+description: Learn to personalize customer interactions and automate workflows in Ada using variables and API integrations.
 featured_image: '/images/heart.jpeg'
 order_number: 1
 ---

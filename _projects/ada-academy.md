@@ -2,7 +2,7 @@
 title: 'Training, on your schedule, with Ada Academy'
 subtitle: 'Learn. Stand out. Improve the way you work.'
 date: 2018-06-30 00:00:00
-description: A case study on revamping Ada Support's customer education program: Boosting engagement, driving adoption, and increasing retention through outcome-driven learning paths.
+description: A case study on transforming Ada Support's customer education program to boost engagement, drive adoption, and increase retention with outcome-driven learning paths.
 featured_image: '/images/Ada-Academy/Academy.jpg'
 order_number: 2
 ---
